@@ -1,1 +1,1 @@
-# Mini Shell with AI
+# Jarvis is a Mini shell with AI.
