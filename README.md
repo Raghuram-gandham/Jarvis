@@ -18,18 +18,6 @@ History system implemented in history.c.
 
 Easy to extend with more commands in the future.
 
-Project Structure
-.
-├── include/
-│   └── history.h      # header for history functions
-├── src/
-│   ├── main.c         # main CLI loop
-│   └── history.c      # command history implementation
-├── bin/
-│   └── jarvis         # compiled binary (after build)
-├── Makefile           # build automation
-└── README.md          # project documentation
-
 Build Instructions
 
 Make sure you have gcc installed. Then:
