@@ -42,9 +42,6 @@ This will produce the executable in bin/jarvis.
 Run Jarvis
 ./bin/jarvis
 
-Example Usage
-Jarvis CLI
-> help
 
 Extend the Project
 
