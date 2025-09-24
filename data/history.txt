@@ -1,0 +1,12 @@
+echo hello world
+
+ls
+
+history
+
+echo Hello world
+ls
+cd~
+history
+clear
+exit

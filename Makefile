@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Iinclude -Wall -Wextra
-SRC = src/main.c
+SRC = $(wildcard src/*.c)
 OUT = bin/jarvis
 
 all: $(OUT)
