@@ -10,3 +10,10 @@ cd~
 history
 clear
 exit
+AI how are you?
+ai how are you
+ai time
+hello ai
+ai hello
+exist
+history

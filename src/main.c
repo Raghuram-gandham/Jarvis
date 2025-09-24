@@ -2,6 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include "history.h"
+#include "ai.h"
 
 
 int num_inputs = 1024;
@@ -40,6 +41,12 @@ int main(){
         // Built-in: history
         else if (strcmp(input, "history") == 0) {
             print_history();
+            continue;
+        }
+
+        // Built-in: ai
+        else if (strncmp(input, "ai ", 3) == 0) {
+            ai_process(input + 3);
             continue;
         }
 
