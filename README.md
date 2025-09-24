@@ -1,5 +1,4 @@
 # Jarvis is a Mini shell with AI.
-Jarvis CLI Assistant
 
 Jarvis is a simple command-line assistant written in C. It supports a few built-in commands and keeps track of your command history. This is a lightweight starter project to practice C, Makefiles, and building modular programs.
 
