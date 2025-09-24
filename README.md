@@ -43,19 +43,12 @@ Run Jarvis
 ./bin/jarvis
 
 Example Usage
-Jarvis CLI — type 'help' to see commands
+Jarvis CLI
 > help
 Available commands:
-  help     - Show this message
   history  - Show command history
   exit     - Quit Jarvis
-> echo hello world
-Command not recognized: echo hello world
-> history
-1: help
-2: echo hello world
-> exit
-Goodbye!
+  echo hello world
 
 Extend the Project
 
