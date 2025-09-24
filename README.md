@@ -45,10 +45,6 @@ Run Jarvis
 Example Usage
 Jarvis CLI
 > help
-Available commands:
-  history  - Show command history
-  exit     - Quit Jarvis
-  echo hello world
 
 Extend the Project
 
